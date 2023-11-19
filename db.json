@@ -1,33 +1,82 @@
 {
-  "projects": [
+  "pic": [
+    {
+      "id": 0,
+      "price":"00.00$",
+    
+      "title": "Kemet&Mousibotimia",
+      "img":"https://i0.wp.com/maeloma.com/wp-content/uploads/2023/02/FB_IMG_1676648887256.jpg?resize=720%2C430&ssl=1",
+      "description": "Crossroads of Civilization: Echoes of Ancient Egypt and Mesopotamia in Modern Iraq."
+    },
     {
       "id": 1,
-      "title": "Module 2 Project",
-      "description": "Module 2 project - Integrate a React app with backend.",
-      "userId": 1
+      "price":"89.99$",
+      "title": "Qethara player",
+      "img":"https://t0.gstatic.com/images?q=tbn:ANd9GcSBdMG4ieg3vLaA3DXkKxmjnh7osRbFxZxRcZzelZ5Ch08n7NZ1",
+      "description": "84 x 60cm (33 1/16 x 23 5/8in) Layla Al-Attar."
     },
     {
       "id": 2,
-      "title": "Module 3 Project",
-      "description": "Create a full-stack application using MERN stack.",
-      "userId": 1
-    }
-  ],
-  "tasks": [
-    {
-      "id": 1,
-      "projectId": 1,
-      "description": "Use Vite to create a basic React app"
-    },
-    {
-      "id": 2,
-      "projectId": 1,
-      "description": "Install React Router and setup routes"
+      "title": "Darkness",
+      "price":"800$",
+      "img":"https://www.artshelp.com/content/images/2022/08/motherearth-OP.jpg",
+      "description": "90x120cm Layla Al-Attar"
     },
     {
       "id": 3,
-      "projectId": 2,
-      "description": "Create a form with 5 input fields"
-    }
-  ]
+      "price":"800$",
+      "title": "Papyrus of Ani",
+      "img":"https://pbs.twimg.com/media/EUyEH6QWkAAfQLY.jpg",
+      "description": "some of the 42 Judges of Maat are visible, seated and in small size."
+    },
+    {
+      "id": 4,
+      "price":"563$",
+      "title": "The Weighing of the Heart",
+      "img":"https://qph.cf2.quoracdn.net/main-qimg-212b65c980a82c5e7725f8046ba81a00-l",
+      "description": "The Weighing of the Heart as depicted in the Papyrus of Hunefer (19th Dynasty, c. 1300 BC)"
+    },
+    {
+      "id": 5,
+      "price":"353$",
+      "title": "The flute Player",
+      "img":"https://media.mutualart.com/Images/2022_02/15/23/231544698/1a6bcf49-848b-4188-a51e-e563fe1b9fd1_570.Jpeg?w=768",
+      "description": "Omar El-Nagdi"
+    },
+    
+    {
+      "id": 6,
+      "price":"540$",
+      "title": "The Mandolin Player",
+"img":"https://www.artnet.de/WebServices/images/ll00020lldU5VJFgOKECfDrCWQFHPKc8njF/omar-el-nagdi-the-mandolin-player.jpg",
+      "description": "1975,1979 Omar El-Nagdi "
+    },
+    {
+      "id": 7,
+      "price":"879$",
+      "title": "Ishtar",
+      "img":"https://carolynejacobs.com/wp-content/uploads/2021/01/960.jpg",
+      "description": "Iraqi God of beauty"
+    },
+    {
+      "id": 8,
+      "price":"879$",
+      "title": " Make some noise",
+      "img":"https://pbs.twimg.com/media/DbVJIVSW0AAIeno?format=jpg&name=medium",
+      "description": "oil on canvas suoad al-Attar"
+    },
+    {
+    "id": 9,
+    "price":"900$",
+    "title": " ",
+    "img":"https://pbs.twimg.com/media/DbVJNVuWAAAIvKl?format=jpg&name=medium",
+    "description": "oil on canvas suoad al-Attar 1942"
+},
+{
+  "id": 10,
+  "price":"353$",
+  "title": "The Violin Player",
+  "img":"https://www.artshelp.com/content/images/2022/08/The-violin-Player-1989-Mutual-Art-OP.jpg",
+  "description": "90x120cm Layla Al-Attar"
+}]
 }
