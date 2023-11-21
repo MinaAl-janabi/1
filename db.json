@@ -32,9 +32,9 @@
     {
       "id": 4,
       "price":"563$",
-      "title": "The Weighing of the Heart",
-      "img":"https://qph.cf2.quoracdn.net/main-qimg-212b65c980a82c5e7725f8046ba81a00-l",
-      "description": "The Weighing of the Heart as depicted in the Papyrus of Hunefer (19th Dynasty, c. 1300 BC)"
+      "title": "Arabian",
+      "img":"https://i.pinimg.com/564x/9f/2a/ac/9f2aac89297e7ddd2ccfb6d233f835d6.jpg",
+      "description": "by Faeq Hassan "
     },
     {
       "id": 5,
@@ -68,7 +68,7 @@
     {
     "id": 9,
     "price":"900$",
-    "title": " ",
+    "title": " missing",
     "img":"https://pbs.twimg.com/media/DbVJNVuWAAAIvKl?format=jpg&name=medium",
     "description": "oil on canvas suoad al-Attar 1942"
 },
@@ -78,5 +78,51 @@
   "title": "The Violin Player",
   "img":"https://www.artshelp.com/content/images/2022/08/The-violin-Player-1989-Mutual-Art-OP.jpg",
   "description": "90x120cm Layla Al-Attar"
-}]
+},
+{
+  "id": 11,
+  "price":"353$",
+  "title": "Affection",
+  "img":"https://i.pinimg.com/564x/73/d6/c0/73d6c0b10614c66cc9bfc81ab1dcc238.jpg",
+  "description": "By Omar El-Nagadi; oil on canvas; 70 by 45cm"
+},
+{
+  "id": 12,
+  "price":"353$",
+  "title": "Feminine",
+  "img":"https://i.pinimg.com/564x/20/b8/a9/20b8a9d6a8209e1169f7ead321fe8cbc.jpg",
+  "description": "By Waleed Yassin, 90 by 65cm"
+},
+{
+  "id": 13,
+  "price":"353$",
+  "title": "Cairo Station",
+  "img":"https://i.pinimg.com/564x/3d/67/0a/3d670a3c1fe88da26ad0ad1c7dd96a9d.jpg",
+  "description": "By Waleed Yassin, 90 by 65cm"
+}
+,
+{
+  "id": 14,
+  "price":"353$",
+  "title": "Sweet",
+  "img":"https://i.pinimg.com/564x/b3/18/fb/b318fbec38af60f2582202a0a985facb.jpg",
+  "description": "by Farid Fadel,70 by 45cm "
+}
+,
+{
+  "id": 14,
+  "price":"353$",
+  "title": "Belly dancer",
+  "img":"https://i.pinimg.com/564x/28/c1/cb/28c1cb63f32eaad72ea8a98abe44896a.jpg",
+  "description": "by Emad Altaai , 90 by 65cm "
+}
+,
+{
+  "id": 14,
+  "price":"353$",
+  "title": "Tita",
+  "img":"https://i.pinimg.com/564x/21/f6/81/21f681472deb7f2fb319cb1cb2f3cb49.jpg",
+  "description": "by Waleed Yassin, 80 by 120 "
+}
+]
 }
