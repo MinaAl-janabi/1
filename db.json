@@ -68,7 +68,7 @@
     {
     "id": 9,
     "price":"900$",
-    "title": " missing",
+    "title": " Missing",
     "img":"https://pbs.twimg.com/media/DbVJNVuWAAAIvKl?format=jpg&name=medium",
     "description": "oil on canvas suoad al-Attar 1942"
 },
@@ -123,6 +123,28 @@
   "title": "Tita",
   "img":"https://i.pinimg.com/564x/21/f6/81/21f681472deb7f2fb319cb1cb2f3cb49.jpg",
   "description": "by Waleed Yassin, 80 by 120 "
+},
+{
+  "id": 17,
+  "price":"457$",
+  "title": "Zokak El-Madak",
+  "img":"https://i.pinimg.com/564x/3c/7b/2b/3c7b2b2bcd8dabb0726f3e5e34085959.jpg",
+  "description": " Egyptian ladies 120* 80"
+},
+{
+  "id": 18,
+  "price":"450$",
+  "title": "Ya baladi ya wad",
+  "img":"https://i.pinimg.com/564x/dd/96/82/dd9682e5313c114128bbc904073c50f6.jpg",
+  "description": " by Nejib Chems 80*120 "
+}
+,
+{
+"id": 19,
+  "price":"400$",
+  "title": "Gramophone",
+  "img":"https://i.pinimg.com/564x/5a/b1/2e/5ab12ee96124b090e0cb77dad1ac9760.jpg",
+  "description": "Acrylic and mix media on stretched canvas  "
 }
 ]
 }
